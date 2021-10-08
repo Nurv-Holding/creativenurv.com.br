@@ -17,7 +17,7 @@
 
             <h2 class="text">
                 <span>Engajamento</span>
-                <img class="seta-subindo" src="../assets/seta subindo.svg" alt="seta subindo">
+                <img class="seta-subindo" src="../assets/subindo.svg" alt="subindo">
             </h2>
 
             <p class="paragrafo">
