@@ -12,7 +12,7 @@
 
         <div class="text-div">
 
-            <img class="linha-botao" src="../assets/linha botao.svg" alt="linha botão">
+            <img class="linha-botao" src="../assets/botao.svg" alt="linha botão">
 
             <h2 class="text">CLIQUE NO 
             
