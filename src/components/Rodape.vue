@@ -20,9 +20,16 @@
                 <li class="link-rodape"><a href="">Aumente suas vendas</a></li>
             </div>
 
-            <div>
-                <i class="fab fa-instagram icon-rodape"></i>
+            <div> 
+
+                <a target="_blank" href="https://www.instagram.com/creativenurv/">
+
+                    <i class="fab fa-instagram icon-rodape"></i>
+
+                </a>   
+
             </div>
+
         </div>
 
         <div>

@@ -12,7 +12,7 @@
 
                 <li class="nav-link"><a href="">Início</a></li>
                 <li class="nav-link"><a href="">Contato</a></li>
-                <a href="">
+                <a target="_blank" href="https://www.instagram.com/creativenurv/">
                   <i class="fab fa-instagram nav-icon"></i>
                 </a>
 
