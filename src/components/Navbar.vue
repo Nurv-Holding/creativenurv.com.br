@@ -10,8 +10,8 @@
 
             <ul class="nav-list">
 
-                <li class="nav-link"><a href="">Início</a></li>
-                <li class="nav-link"><a href="">Contato</a></li>
+                <li class="nav-link"><a href="#">Início</a></li>
+                <li class="nav-link"><a href="http://formulario.creativenurv.com">Contato</a></li>
                 <a target="_blank" href="https://www.instagram.com/creativenurv/">
                   <i class="fab fa-instagram nav-icon"></i>
                 </a>
