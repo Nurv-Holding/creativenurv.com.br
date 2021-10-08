@@ -49,9 +49,13 @@
         </div>
 
         <div class="inversa-div">
+
             <img class="inversa" src="../assets/inversa.svg" alt="inversa">
+
         </div>
+
     </section>
+    
 </template>
 
 <script>
