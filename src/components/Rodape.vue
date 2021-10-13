@@ -68,6 +68,6 @@ export default {
     @apply text-2xl mr-2 md:text-3xl lg:mr-5 xl:text-4xl;
 }
 .copy {
-    @apply text-center text-sm font-semibold xl:text-lg;
+    @apply text-center text-sm;
 }
 </style>
