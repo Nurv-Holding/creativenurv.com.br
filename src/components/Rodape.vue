@@ -19,7 +19,7 @@
             <div>
 
                 <li class="link-rodape"><a href="">Quem Somos</a></li>
-                <li class="link-rodape"><a href="http://formulario.creativenurv.com">Método <span class="text-yellow-400">Nurv</span></a></li>
+                <li class="link-rodape"><a href="https://formulario.creativenurv.com">Método <span class="text-yellow-400">Nurv</span></a></li>
                 <li class="link-rodape"><a href="formulario.creativenurv.com">Aumente suas vendas</a></li>
 
             </div>
