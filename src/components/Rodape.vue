@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <template>
     <footer 
     data-aos="fade-up"
