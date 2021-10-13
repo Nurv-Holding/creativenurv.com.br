@@ -6,27 +6,37 @@
     data-aos-easing="ease-in-out"
     data-aos-mirror="true"
     data-aos-once="false"
-    data-aos-anchor-placement="center-bottom"
-    class="clientes">
+    data-aos-anchor-placement="center-bottom">
 
-        <div>
-            <img class="img-cliente" src="../assets/CLIENTE1.png" alt="">
+        <div class="div-titulo">
+
+            <h2 class="titulo">NOSSOS</h2>
+            <h2 class="titulo">CLIENTES</h2>
+
         </div>
 
-        <div>
-            <img class="img-cliente" src="../assets/CLIENTE2.png" alt="">
-        </div>
+        <div class="clientes">
 
-        <div>
-            <img class="img-cliente" src="../assets/CLIENTE3.png" alt="">       
-        </div>
+            <div>
+                <img class="img-cliente" src="../assets/CLIENTE1.png" alt="">
+            </div>
 
-        <div>
-            <img class="img-cliente" src="../assets/CLIENTE4.png" alt="">
-        </div>
+            <div>
+                <img class="img-cliente" src="../assets/CLIENTE2.png" alt="">
+            </div>
 
-        <div>
-            <img class="img-cliente" src="../assets/CLIENTE5.png" alt="">
+            <div>
+                <img class="img-cliente" src="../assets/CLIENTE3.png" alt="">       
+            </div>
+
+            <div>
+                <img class="img-cliente" src="../assets/CLIENTE4.png" alt="">
+            </div>
+
+            <div>
+                <img class="img-cliente" src="../assets/CLIENTE5.png" alt="">
+            </div>
+
         </div>
 
     </section>
@@ -45,9 +55,15 @@ export default {
 
 <style lang="postcss" scoped>
 .clientes{
-    @apply flex flex-wrap w-full justify-center flex-grow mt-10 xl:mt-40;
+    @apply flex flex-wrap w-full justify-center flex-grow mt-10;
 }
 .img-cliente{
     @apply w-36 m-2 xl:w-52 2xl:w-64;
+}
+.div-titulo{
+    @apply mt-16 xl:mt-40;
+}
+.titulo{
+    @apply text-center font-black text-3xl md:text-4xl xl:text-6xl 2xl:text-7xl;
 }
 </style>
