@@ -79,7 +79,7 @@ export default {
     @apply w-full grid grid-cols-1 md:grid-cols-2;
 }
 .text-div{
-    @apply px-4 md:p-5 md:mt-16 md:border md:border-solid md:border-blue-600 md:rounded-xl lg:mt-32 xl:relative xl:top-44 xl:w-11/12 xl:px-10 2xl:py-16;
+    @apply px-4 md:p-5 md:mt-16 md:border md:border-solid md:border-blue-600 md:rounded-xl lg:mt-32 xl:relative xl:top-20 xl:w-11/12 xl:px-10 2xl:py-16;
 }
 .paragrafo{
     @apply mt-3 font-semibold text-lg lg:mt-4 lg:text-xl xl:text-2xl 2xl:text-3xl;

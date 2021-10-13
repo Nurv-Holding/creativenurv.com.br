@@ -26,15 +26,15 @@
 
             <div class="footer-social"> 
 
-                <a class="link-icon" target="_blank" href="https://www.instagram.com/creativenurv/">
+                <a class="footer-link" target="_blank" href="https://www.instagram.com/creativenurv/">
                   <i class="fab fa-instagram footer-icon"></i>
                 </a>
 
-                <a class="link-icon" target="_blank" href="https://br.linkedin.com/company/creativenurv">
+                <a class="footer-link" target="_blank" href="https://br.linkedin.com/company/creativenurv">
                   <i class="fab fa-linkedin-in footer-icon"></i>
                 </a>
 
-                <a class="link-icon" target="_blank" href="https://www.facebook.com/creativenurv/">
+                <a class="footer-link" target="_blank" href="https://www.facebook.com/creativenurv/">
                   <i class="fab fa-facebook-f footer-icon"></i>
                 </a>
   
@@ -79,8 +79,8 @@ export default {
 .footer-social{
     @apply flex items-center xl:mr-5;
 }
-.link-icon{
-    @apply flex items-center px-0.5 md:p-1.5;
+.footer-link{
+    @apply flex items-center px-0.5 md:px-1.5;
 }
 .footer-icon{
     @apply bg-white text-black rounded-full hover:text-yellow-400 text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl;
