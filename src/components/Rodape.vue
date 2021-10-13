@@ -24,18 +24,18 @@
 
             </div>
 
-            <div class="nav-social"> 
+            <div class="footer-social"> 
 
                 <a class="link-icon" target="_blank" href="https://www.instagram.com/creativenurv/">
-                  <i class="fab fa-instagram nav-icon"></i>
+                  <i class="fab fa-instagram footer-icon"></i>
                 </a>
 
                 <a class="link-icon" target="_blank" href="https://br.linkedin.com/company/creativenurv">
-                  <i class="fab fa-linkedin-in nav-icon"></i>
+                  <i class="fab fa-linkedin-in footer-icon"></i>
                 </a>
 
                 <a class="link-icon" target="_blank" href="https://www.facebook.com/creativenurv/">
-                  <i class="fab fa-facebook-f nav-icon"></i>
+                  <i class="fab fa-facebook-f footer-icon"></i>
                 </a>
   
 
@@ -77,13 +77,13 @@ export default {
 .copy {
     @apply text-center text-sm;
 }
-.nav-social{
+.footer-social{
     @apply flex items-center xl:mr-5;
 }
 .link-icon{
     @apply flex items-center px-0.5 md:p-1.5;
 }
-.nav-icon{
+.footer-icon{
     @apply bg-white text-black rounded-full hover:text-yellow-400 text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl;
     @apply w-6 flex justify-center items-center md:w-7 md:h-7 xl:w-8 xl:h-8 2xl:w-12 2xl:h-12;
 }
