@@ -54,7 +54,7 @@
     @apply p-2 font-semibold hover:text-yellow-400 md:text-xl xl:text-2xl 2xl:text-3xl;
 }
 .nav-social{
-    @apply flex items-center;
+    @apply flex items-center xl:mr-5;
 }
 .link-icon{
     @apply flex items-center px-0.5 md:p-1.5;
