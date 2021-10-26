@@ -20,7 +20,7 @@
         </div>
 
         <div class="button">
-            <a href="">
+            <a href="#metodo">
                 <button class="btn">
                     <span>Acesse o método NURV</span>
                     <i class="fas fa-angle-double-right btn-icon"></i>

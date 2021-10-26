@@ -8,7 +8,8 @@
     data-aos-mirror="true"
     data-aos-once="false"
     data-aos-anchor-placement="top-center"
-    class="trafego">
+    class="trafego"
+    id="metodo">
 
         <div class="layout">
 
