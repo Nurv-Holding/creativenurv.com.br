@@ -1,0 +1,4 @@
+[24-Aug-2021 08:25:58 America/Fortaleza] PHP Notice:  Undefined index: nome in /home2/creat811/creativenurv.com/enviaemail.php on line 23
+[24-Aug-2021 08:25:58 America/Fortaleza] PHP Notice:  Undefined index: empresa in /home2/creat811/creativenurv.com/enviaemail.php on line 24
+[24-Aug-2021 08:25:58 America/Fortaleza] PHP Notice:  Undefined index: setor in /home2/creat811/creativenurv.com/enviaemail.php on line 27
+[24-Aug-2021 08:25:58 America/Fortaleza] PHP Notice:  Undefined index: textarea in /home2/creat811/creativenurv.com/enviaemail.php on line 29
